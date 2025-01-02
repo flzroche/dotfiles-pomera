@@ -1,0 +1,5 @@
+alias el='exa -la'
+
+alias src='source'
+alias szsh='source ~/.zshrc'
+alias c='clear'
