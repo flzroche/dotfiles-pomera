@@ -1,0 +1,27 @@
+urxvt*font:	xft:Ricty:size=14
+urxvt*letterSpace:	-1
+urxvt*fontSize:	12
+urxvt*background:	black
+urxvt*foreground:	snow
+
+urxvt*saveLines:	3000
+urxvt*scrollBar:	false
+urxvt*cursorBlink:	true
+urxvt*cursorUnderline:	true
+urxvt*pointerBlank:	true
+urxvt*fading:	40
+urxvt.iso14755:	false
+urxvt.pastableTabs:	false
+
+urxvt.perl-ext-common:	xim-onthespot,keyboard-select
+urxvt.inputMethod:	fcitx
+urxvt.preeditType:	OnTheSpot
+
+urxvt.keyboard-select.clipboard:	true
+
+urxvt.keysym.Shift-up: command:\033]720;1\007
+urxvt.keysym.Shift-Down: command:\033]721;1\007
+
+urxvt.keysym.Mod4-Hiragana_Katakana: perl:keyboard-select:activate
+
+
