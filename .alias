@@ -3,3 +3,6 @@ alias el='exa -la'
 alias src='source'
 alias szsh='source ~/.zshrc'
 alias c='clear'
+
+alias wifion='sudo /opt/bin/wifi_switch on'
+alias wlan='sudo /opt/bin/wifi_switch on'

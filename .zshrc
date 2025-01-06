@@ -106,6 +106,10 @@ source $ZSH/oh-my-zsh.sh
 export PATH=$PATH:/opt/bin
 export PATH=$PATH:/opt/local/bin
 export PATH=$PATH:/sbin
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS="@im=fcitx"
+export DefaultIMModule=fcitx
 
 source ~/dotfiles-pomera/.alias
 
